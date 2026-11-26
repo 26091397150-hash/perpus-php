@@ -1,4 +1,3 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/566f5aab-1647-4fa6-a231-e87133c168ed" /># perpus-php
 Praktik CRUD Kasus 1 - Aplikasi Perpustakaan PHP Native dan MySQL
 
 ## Deskripsi
@@ -19,6 +18,8 @@ Project ini dibuat untuk memenuhi tugas CRUD (Create, Read, Update, Delete).
    - Menampilkan jumlah data buku.
    - Menampilkan jumlah anggota.
    - Menampilkan jumlah peminjaman dan pengembalian.
+   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3207b12a-2415-4c6b-882c-9ff80dcb362b" />
+
 
 2. **Data Buku**
    - Menampilkan data buku.
