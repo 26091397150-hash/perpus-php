@@ -33,24 +33,6 @@ Project ini dibuat untuk memenuhi tugas CRUD (Create, Read, Update, Delete).
    - Memproses pengembalian buku.
    - Menghapus data peminjaman.
 
-## Struktur Folder
-```text
-perpus-php/
-├── assets/
-│   └── css/
-├── config/
-│   └── config.php
-├── includes/
-│   ├── functions.php
-│   ├── header.php
-│   └── footer.php
-├── buku/
-├── peminjaman/
-├── screenshots/
-├── index.php
-└── README.md
-```
-
 ## Cara Menjalankan Aplikasi
 1. Instal dan jalankan XAMPP.
 2. Aktifkan Apache dan MySQL.
@@ -71,9 +53,11 @@ Tabel yang digunakan:
 - `buku`
 - `anggota`
 - `peminjaman`
+<img width="960" height="540" alt="Screenshot 2026-11-26 202225" src="https://github.com/user-attachments/assets/0abce8fc-1810-48a8-8dfd-1672dd0bcbaf" />
+http://localhost/phpmyadmin/index.php?route=/database/structure&db=db_perpustakaan
+
 
 ## Tampilan Aplikasi
-Screenshot tampilan aplikasi dapat dilihat pada folder `screenshots`.
 
-## Penutup
-Project ini dibuat sebagai bagian dari pembelajaran pemrograman web menggunakan PHP Native dan MySQL, khususnya dalam penerapan operasi CRUD dan pengelolaan database.
+
+
